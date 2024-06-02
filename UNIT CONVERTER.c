@@ -1,5 +1,5 @@
 //Author Rod Capili
-//UNI CONVERTER, FINAL PROJECT IN C
+//UNIT CONVERTER, FINAL PROJECT IN C
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
